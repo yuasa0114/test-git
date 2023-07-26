@@ -2,4 +2,4 @@ hoge makes hoge hoge.
 
 new line.
 
-2nd new line.
+hoge hoge.
